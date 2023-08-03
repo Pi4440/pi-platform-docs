@@ -84,4 +84,4 @@ Please refer to:
 * [the Platform API documentation](./platform_API.md) to learn how to confirm the payment and acknowledge it from your
   server
 * [the client SDK documentation](./SDK_reference.md) to learn about Pi Apps SDK and provided methods in detail
-* [the Demo App](https://github.com/pi-apps/demo) to view an example of how you can implement the various required flows in your app's code
+* [the Demo App](https://github.com/pi-apps/demo) to view an example of how you can implement the various required flows in your app's code 4303
